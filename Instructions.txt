@@ -1,2 +1,7 @@
 Official Documentation of Pseudo Distributed Hadoop:
 https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
+
+
+1. Ensure Java is installed
+2. Installing ssh, pdsh
+
