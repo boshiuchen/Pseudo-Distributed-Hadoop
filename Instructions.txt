@@ -1,0 +1,2 @@
+Official Documentation of Pseudo Distributed Hadoop:
+https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
